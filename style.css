@@ -1,0 +1,27 @@
+h1 {
+    background-color: blue;
+    border: 2px;
+    border-style: ridge;
+    padding: 10px 2em;
+}
+
+body {
+    background-color: rgb(43, 137, 226);
+}
+
+main {
+    background-color: cornflowerblue;
+}
+
+a {
+    transition: all 500ms;
+}
+a:hover {
+    background-color: rgb(254, 254, 0);
+    padding: 0.2em;
+    font-weight: 800;
+}
+
+a:active {
+    color: antiquewhite;
+}
